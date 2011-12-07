@@ -23,6 +23,7 @@ gem "rdiscount"
 gem "acts-as-taggable-on", "~> 2.1.0"
 gem "drapper"
 gem "rchardet19", "~> 1.3.5"
+gem 'unicorn'
 
 group :assets do
   gem "sass-rails",   "~> 3.1.0"
